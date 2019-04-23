@@ -1,0 +1,19 @@
+1. 日期信息
+index: record_date, # csv文件索引，日期
+feature: 
+month_in_year, # 几月
+day_in_month, # 一月中的第几天
+day_in_year, # 一年中的第几天
+day_in_week, # 一周中的第几天
+week_in_month, # 月中第几周
+week_in_year, # 一年中的第几周
+is_holiday, # 是否放假
+holiday_before, #  距离下一个节假日的天数
+holiday_after, # 距离上一个节假日的天数
+day_in_holiday, # 节假日的第几天
+is_adjust, # 是否是调休
+is_special_holiday, # 为是否是国家规定的节日
+
+2. 统计信息
+month_avg # 上月平均值
+last_week_mean # 上个月最后一周平均值

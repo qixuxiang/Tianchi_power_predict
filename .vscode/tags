@@ -1,0 +1,78 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+Date	../src/util.py	/^class Date:$/;"	kind:class	line:28
+Path	../src/util.py	/^class Path:$/;"	kind:class	line:17
+__init__.py	../src/__init__.py	1;"	kind:file	line:1
+__init__.py	../src/features/__init__.py	1;"	kind:file	line:1
+__init__.py	../src/models/__init__.py	1;"	kind:file	line:1
+__init__.py	../src/preprocess/__init__.py	1;"	kind:file	line:1
+base_line	../src/preprocess/concat.py	/^def base_line():$/;"	kind:function	line:27
+cancat_data	../src/preprocess/concat.py	/^def cancat_data():$/;"	kind:function	line:7
+concat.py	../src/preprocess/concat.py	1;"	kind:file	line:1
+current_path	../src/util.py	/^current_path = os.path.abspath(__file__)$/;"	kind:variable	line:7
+data_08	../src/util.py	/^    data_08 = data_path + "\/Tianchi_power.csv"$/;"	kind:variable	line:25
+data_09	../src/util.py	/^    data_09 = data_path + "\/Tianchi_power_9.csv"$/;"	kind:variable	line:26
+data_file	../src/util.py	/^    data_file = data_path + "\/data.csv"$/;"	kind:variable	line:18
+data_path	../src/util.py	/^data_path = os.path.abspath(current_path + "\/..\/..\/data\/")$/;"	kind:variable	line:8
+dataset_path	../src/util.py	/^    dataset_path = data_path + '\/dataset\/'$/;"	kind:variable	line:23
+date_file	../src/util.py	/^    date_file = data_path + "\/date.csv"$/;"	kind:variable	line:22
+evalmape	../src/models/losses.py	/^def evalmape(preds, dtrain):$/;"	kind:function	line:15
+gbdt_model_log.py	../src/models/gbdt_model_log.py	1;"	kind:file	line:1
+h5_data	../src/util.py	/^    h5_data = data_path + "\/data.h5"$/;"	kind:variable	line:19
+hdf5_store	../src/util.py	/^    hdf5_store = data_path + '\/hdf5\/'$/;"	kind:variable	line:21
+losses.py	../src/models/losses.py	1;"	kind:file	line:1
+make_dataset_0608	../archive/0609_a1/make_dataset_day.py	/^def make_dataset_0608():$/;"	kind:function	line:6
+make_dataset_0608	../src/features/make_dataset_day.py	/^def make_dataset_0608():$/;"	kind:function	line:6
+make_dataset_0609	../archive/0609_a1/make_dataset_day.py	/^def make_dataset_0609():$/;"	kind:function	line:39
+make_dataset_0609	../src/features/make_dataset_day.py	/^def make_dataset_0609():$/;"	kind:function	line:39
+make_dataset_0610	../archive/0609_a1/make_dataset_day.py	/^def make_dataset_0610():$/;"	kind:function	line:86
+make_dataset_0610	../src/features/make_dataset_day.py	/^def make_dataset_0610():$/;"	kind:function	line:86
+make_dataset_day.py	../archive/0609_a1/make_dataset_day.py	1;"	kind:file	line:1
+make_dataset_day.py	../src/features/make_dataset_day.py	1;"	kind:file	line:1
+make_feature	../src/features/user_feature.py	/^def make_feature():$/;"	kind:function	line:6
+mape	../src/models/losses.py	/^def mape(y_true, y_pred):$/;"	kind:function	line:27
+mape_log	../src/models/losses.py	/^def mape_log(y_true, y_pred):$/;"	kind:function	line:22
+mapeobj	../src/models/losses.py	/^def mapeobj(preds,dtrain):$/;"	kind:function	line:5
+method	../src/sub_result.py	/^        method = "xgb"$/;"	kind:variable	line:24
+method	../src/sub_result.py	/^        method = sys.argv[1]$/;"	kind:variable	line:26
+model_dict	../src/util.py	/^model_dict={$/;"	kind:variable	line:37
+predict_day_time	../src/util.py	/^    predict_day_time = pd.date_range(start='20161001', end='20161031')$/;"	kind:variable	line:32
+run	../archive/0608/xgb_model_day.py	/^def run():$/;"	kind:function	line:16
+run	../archive/0609_a1/xgb_model_day.py	/^def run():$/;"	kind:function	line:59
+run	../archive/0609_a2/xgb_model_day.py	/^def run():$/;"	kind:function	line:59
+run	../archive/0609_a3/xgb_model_day.py	/^def run():$/;"	kind:function	line:59
+run	../src/models/gbdt_model_log.py	/^def run():$/;"	kind:function	line:14
+run	../src/models/xgb_model_day.py	/^def run():$/;"	kind:function	line:59
+run	../src/sub_result.py	/^def run(model="xgb"):$/;"	kind:function	line:12
+run.py	../src/run.py	1;"	kind:file	line:1
+run1	../archive/0609_a1/xgb_model_day.py	/^def run1():$/;"	kind:function	line:19
+run1	../archive/0609_a2/xgb_model_day.py	/^def run1():$/;"	kind:function	line:19
+run1	../archive/0609_a3/xgb_model_day.py	/^def run1():$/;"	kind:function	line:19
+run1	../src/models/xgb_model_day.py	/^def run1():$/;"	kind:function	line:19
+run3	../archive/0609_a1/xgb_model_day.py	/^def run3():$/;"	kind:function	line:98
+run3	../archive/0609_a2/xgb_model_day.py	/^def run3():$/;"	kind:function	line:98
+run3	../archive/0609_a3/xgb_model_day.py	/^def run3():$/;"	kind:function	line:98
+run3	../src/models/xgb_model_day.py	/^def run3():$/;"	kind:function	line:98
+sub	../src/sub_result.py	/^    sub = run(method)$/;"	kind:variable	line:31
+sub_file	../src/sub_result.py	/^    sub_file = Path.sub_path + '\/' + today + '\/Tianchi_power_predict_table.csv'$/;"	kind:variable	line:30
+sub_path	../src/util.py	/^    sub_path = os.path.abspath(current_path + "\/..\/..\/submit\/")$/;"	kind:variable	line:20
+sub_result.py	../src/sub_result.py	1;"	kind:file	line:1
+today	../src/sub_result.py	/^    today = datetime.datetime.now().strftime("%Y-%m-%d")$/;"	kind:variable	line:27
+train_day_time	../src/util.py	/^    train_day_time = train_day_time1.append(train_day_time2)$/;"	kind:variable	line:30
+train_day_time1	../src/util.py	/^train_day_time1 = pd.date_range(start='2015-04-01', end='2015-12-31', freq='D')$/;"	kind:variable	line:11
+train_day_time2	../src/util.py	/^train_day_time2 = pd.date_range(start='2016-05-01', end='2016-09-30', freq='D')$/;"	kind:variable	line:12
+used_features	../src/util.py	/^used_features=['day_in_week', 'is_holiday', 'holiday_after', 'holiday_before', 'week_in_month', 'week_in_year', 'day_in_month', 'base14', 'month_avg', 'is_special_holiday', 'day_in_year', 'day_in_holiday', 'is_adjust']$/;"	kind:variable	line:45
+user_feature.py	../src/features/user_feature.py	1;"	kind:file	line:1
+util.py	../src/util.py	1;"	kind:file	line:1
+validate_day_time	../src/util.py	/^    validate_day_time = validate_day_time1.append(validate_day_time2)$/;"	kind:variable	line:34
+validate_day_time1	../src/util.py	/^validate_day_time1 = pd.date_range(start='2015-09-01', end='2015-10-31', freq='D')$/;"	kind:variable	line:13
+validate_day_time2	../src/util.py	/^validate_day_time2 = pd.date_range(start='2016-09-01', end='2016-09-30', freq='D')$/;"	kind:variable	line:14
+xgb_model_day.py	../archive/0608/xgb_model_day.py	1;"	kind:file	line:1
+xgb_model_day.py	../archive/0609_a1/xgb_model_day.py	1;"	kind:file	line:1
+xgb_model_day.py	../archive/0609_a2/xgb_model_day.py	1;"	kind:file	line:1
+xgb_model_day.py	../archive/0609_a3/xgb_model_day.py	1;"	kind:file	line:1
+xgb_model_day.py	../src/models/xgb_model_day.py	1;"	kind:file	line:1
